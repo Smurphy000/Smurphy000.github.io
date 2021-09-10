@@ -5,4 +5,4 @@ date = "2021-09-08"
 author = "Conner Murphy"
 +++
 
-Place holder
+I am a Software/Data Engineer with 3+ years of work experience and I have a passion for developing and utilizing cutting edge technologies related to data processing and distributed computing. I enjoy contributing to open source projects, and learning new things about software and the technology industry.
