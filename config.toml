@@ -60,11 +60,11 @@ disqusShortname = "yourdiscussshortname"
 # Menu links
 [[menu.main]]
   name = "Blog"
-  weight = 1
+  weight = 2
   url  = "posts/"
 [[menu.main]]
   name = "About"
-  weight = 3
+  weight = 1
   url = "about/"
 [[menu.main]]
   name = "Contact"
@@ -72,5 +72,5 @@ disqusShortname = "yourdiscussshortname"
   url = "contact/"
 [[menu.main]]
   name = "Portfolio"
-  weight = 2
+  weight = 3
   url = "portfolio/"
