@@ -9,7 +9,7 @@ paginate = 20
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
+googleAnalytics = 'G-GLJ0YCBERD'
 disqusShortname = "yourdiscussshortname"
 
 [params]
