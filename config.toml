@@ -1,5 +1,5 @@
 baseurl = "https://smurphy000.github.io/"
-title = "smurphy000"
+title = "Conner Murphy"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -14,7 +14,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Conner Murphy"
-  info = "Software Engineer"
+  info = "Data Engineer"
   description = "Conner Murphy's portfolio and blog"
   keywords = "blog,developer,personal"
   
@@ -50,6 +50,12 @@ disqusShortname = "yourdiscussshortname"
   icon = "fa fa-linkedin fa-2x"
   weight = 1
   url = "https://www.linkedin.com/in/conner-murphy-4776b3148/"
+  target = "_blank"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-stack-overflow fa-2x"
+  weight = 1
+  url = "https://stackoverflow.com/users/14072673/smurphy0000"
   target = "_blank"
 
 # Menu links
