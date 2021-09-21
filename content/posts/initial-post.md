@@ -6,14 +6,14 @@ author = "Conner Murphy"
 disableComments = true
 +++
 
-
 # Welcome!
 
-My name is Conner Murphy and I am a software/data engineer. I am will be using my personal website to also write some blog posts, mostly for my own benefit of documenting my learning experience and research, but maybe you can get some value out of these posts as well! 
+My name is Conner Murphy and I am a software/data engineer. I am will be using my personal website to also write some blog posts (mostly for my own benefit) to document my learning and research, but maybe you can get some value out of these posts as well!
 
 ## Direction
 
 The current direction for this blog will about my continued learning in different programming languages such as:
+
 - [Rust](https://github.com/rust-lang/rust): because it is strongly typed, low level, high performance, up-and-coming language for data engineering
 - [Scala](https://github.com/lampepfl/dotty): because it is a functional, strongly typed, and jvm based language used in many big data technologies
 
