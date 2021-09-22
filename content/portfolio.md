@@ -9,7 +9,7 @@ author = "Conner Murphy"
 
 ### [Delta Viewer](https://github.com/Smurphy000/delta-viewer) - Actively Developing
 
-- **Description:** Delta Viewer is an application for connecting to storage backends containing Delta tables and providing a managable interface for non-technical users to interact with table metadata and transactions.
+- **Description:** Delta Viewer is an application for connecting to storage backends containing Delta tables and providing a managable interface for users to interact with table metadata and transactions.
 
 ## Open Source
 
