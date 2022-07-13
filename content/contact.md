@@ -5,8 +5,14 @@ date = "2021-09-08"
 author = "Conner Murphy"
 +++
 
-# Contact! [Email](mailto:connermurphy74@gmail.com)
+## Contact
 
-# Connect! [LinkedIn](https://www.linkedin.com/in/conner-murphy-4776b3148/)
+[Email](mailto:connermurphy74@gmail.com)
 
-# Collaborate! [Github](https://github.com/Smurphy000)
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/conner-murphy-4776b3148/)
+
+## Collaborate
+
+[Github](https://github.com/Smurphy000)

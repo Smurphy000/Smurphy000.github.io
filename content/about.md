@@ -12,12 +12,14 @@ I am a Data Engineer with 3+ years of work experience and I have a passion for d
 Data Engineer at Capital One | November 2021 - Present
 
 - Languages: Java, SQL, Python
-- Technologies: AWS, Snowflake
+- Technologies: GRPC
+- Cloud: AWS, Snowflake, Github
 
 Data Engineer at Hexagon PPM | August 2019 - November 2021
 
 - Languages: SQL, Python
-- Technologies: Azure, Databricks, Spark
+- Technologies: Spark, Delta Lake
+- Cloud: Azure, Databricks
 
 ## Education
 
