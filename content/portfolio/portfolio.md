@@ -1,17 +1,9 @@
 +++
-title = "Portfolio"
-description = "Conner Murphy, Software Engineer"
+title = "Open Source Contributions"
+description = ""
 date = "2021-09-08"
 author = "Conner Murphy"
 +++
-
-## Personal Projects
-
-### [Delta Viewer](https://github.com/Smurphy000/delta-viewer) - Paused Development
-
-- **Description:** Delta Viewer is an application for connecting to storage backends containing Delta tables and providing a managable interface for users to interact with table metadata and transactions.
-
-## Open Source
 
 ### [delta-io/delta-rs](https://github.com/delta-io/delta-rs) - Contributor
 

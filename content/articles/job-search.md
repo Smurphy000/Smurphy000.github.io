@@ -4,6 +4,7 @@ description = "Conner Murphy, Software Engineer, Job Search"
 date = "2021-11-11"
 author = "Conner Murphy"
 disableComments = true
+draft = true
 +++
 
 # In search of a new job
