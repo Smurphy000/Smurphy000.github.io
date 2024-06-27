@@ -14,4 +14,4 @@ Enjoy 🙃
 
 → [Checkout my work](/portfolio)
 
-→ [Browse my blog / knowledge bank](/articles).
+→ [Browse my blog / knowledge bank](/articles)
