@@ -5,21 +5,18 @@ date = "2024-06-06"
 author = "Conner Murphy"
 +++
 
-I am a Software/Data Engineer with 5+ years of work experience and I have a passion for developing and utilizing cutting edge technologies related to data processing and distributed computing. I enjoy contributing to open source projects, and learning new things about software and the technology industry.
+I am a Software/Data Engineer with 5+ years of experience and I have a passion for developing and utilizing cutting edge technologies related to data processing and distributed computing. I enjoy contributing to open source projects, and learning new things about software and the technology industry.
 
 - [Senior Data Engineer | Capital One](#senior-data-engineer--capital-one)
-  - [November 2021 - Present](#november-2021---present)
 - [Data Engineer | Hexagon PPM](#data-engineer--hexagon-ppm)
-  - [August 2019 - November 2021](#august-2019---november-2021)
 - [Education](#education)
-  - [University of Alabama in Huntsville](#university-of-alabama-in-huntsville)
 - [Certifications](#certifications)
 
 <hr />
 
 ### Senior Data Engineer | Capital One
 
-#### November 2021 - Present
+**November 2021 - Present**
 
 At Capital One I work(ed) in the Software LOB where I was a member of multiple teams working to build a SaaS application called Slingshot. This was one of Capital One's first commercialized software product and its goal is to help customers better understand and optimize their Snowflake spend. I had a part in building and supporting features related to cost saving recommendations, which provided cutomers with an in app experience to view and apply in attempt to optimize the cost / performance utilization of Snowflake resources.
 
@@ -37,7 +34,7 @@ At Capital One I work(ed) in the Software LOB where I was a member of multiple t
 
 ### Data Engineer | Hexagon PPM
 
-#### August 2019 - November 2021
+**August 2019 - November 2021**
 
 - Implemented **ETL** pipelines using **Spark** and **Delta Lake** for ingesting millions of telemetry messages per hour which provided up-to-date reporting for internal users and 4500 customers.
 - Developed internal **Python** packages, reducing code duplication and introducing automated testing.
@@ -49,7 +46,7 @@ At Capital One I work(ed) in the Software LOB where I was a member of multiple t
 
 ### Education
 
-#### University of Alabama in Huntsville
+**University of Alabama in Huntsville**
 
 Master of Science in Computer Science - December 2021
 

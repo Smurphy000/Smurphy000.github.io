@@ -2,13 +2,19 @@
 title: Homepage
 ---
 
-# Hello 👋
+## Hello 👋
 
 **Welcome to my digital garden!**
 
 This is a place for me to collect my thoughts and share them.
 
-Enjoy 🙃
+I like to code 🧑‍💻
+
+```rs
+fn main() {
+    println!("👋 🌎")
+}
+```
 
 <hr />
 
